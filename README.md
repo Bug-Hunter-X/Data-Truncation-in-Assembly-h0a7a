@@ -1,0 +1,1 @@
+This repository demonstrates a common data truncation error in assembly language programming. The `bug.asm` file contains code that attempts to move a 16-bit value into a 32-bit register without proper zero extension. This can lead to unexpected behavior or program crashes. The `bugSolution.asm` file provides a corrected version of the code that addresses this issue.
